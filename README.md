@@ -3,6 +3,8 @@
 
 如果教學有誤再請糾正:sweat_smile:
 
+影片介紹 [Bower基本教學 - 從無到有 Bower-Beginners-Guide](https://youtu.be/vCZCs1XNC5Q)
+
 相信大家一定常遇到 js 套件一更新，就要重新再去網路上抓，然後再放回自己的專案中，
 
 其實，這是一個非常沒有效率的方法 :persevere:
